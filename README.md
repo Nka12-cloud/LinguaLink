@@ -27,8 +27,7 @@
 └───────────────────────┘
 ```
 
-### [Sign Language Translation](https://github.com/sign/translate/wiki/Signed-to-Spoken)
-
+### [Sign Language Translation
 ```
 ┌──────────────────────────┐                                ┌────────────────────┐
 │Upload Sign Language Video│                      ┌────────►│Spoken Language Text│
