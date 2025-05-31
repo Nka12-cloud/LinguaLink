@@ -27,7 +27,7 @@
 └───────────────────────┘
 ```
 
-### [Sign Language Translation
+### Sign Language Translation
 ```
 ┌──────────────────────────┐                                ┌────────────────────┐
 │Upload Sign Language Video│                      ┌────────►│Spoken Language Text│
